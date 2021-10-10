@@ -36,3 +36,80 @@
     transform: rotate(360deg);
   }
 }
+
+.sidebar {
+  position: absolute;
+  width: 20px;
+  height: 552px;
+  left: 32.34px;
+  top: 24.02px;
+  background: #d8c4c4;
+  border-radius: 30px;
+}
+
+.sidebar-home {
+  position: absolute;
+  left: 5.93%;
+  right: 92.27%;
+  top: 22.89%;
+  bottom: 74.22%;
+  background: #ffffff;
+}
+
+.sidebar .pro-sidebar {
+  width: 100%;
+  min-width: 100%;
+}
+
+.sidebar .pro-sidebar-inner .pro-sidebar-layout .logotext p {
+  font-size: 30px;
+  padding: 0 20px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: Baloo Bhai;
+}
+
+.rowC {
+  display: flex;
+  left: 60px;
+  flex-direction: row;
+  width: 100%;
+}
+
+.containerleft {
+  position: absolute;
+  width: 500px;
+  height: 160px;
+  left: 136.32px;
+  top: 55.25px;
+
+  border-radius: 14px;
+}
+
+.containerright {
+  position: absolute;
+  width: 500px;
+  height: 160px;
+  left: 700.06px;
+  top: 55.25px;
+
+  border-radius: 14px;
+}
+
+.learnMore {
+  width: 500px;
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.learnMoreText {
+  /* H2 */
+  font-family: Baloo Bhai;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 38px;
+
+  /* Black */
+  color: #0c0b0b;
+}
