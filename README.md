@@ -12,7 +12,7 @@ Axios
 
 Features : 
 1. Can render videos
-2. ush Notification
+2. Push Notification
 3. App Icons
 
 
