@@ -113,3 +113,166 @@
   /* Black */
   color: #0c0b0b;
 }
+
+.notification {
+  width: 150px;
+  height: 100 px;
+  padding-left: 200px;
+  padding-right: 10px;
+}
+
+.course-display {
+  /* Rectangle 33 */
+
+  width: 100px;
+  height: 96.33px;
+  padding-right: 1000px;
+
+  /* Grey */
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.inprogress-display {
+  /* Rectangle 33 */
+
+  width: 100px;
+  height: 96.33px;
+  padding-left: 100px;
+
+  /* Grey */
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.study-display {
+  /* BIG NUMBERS */
+  font-family: Baloo Bhai;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 102px;
+  /* identical to box height */
+
+  /* Black */
+  color: #0c0b0b;
+}
+
+.studydecdisplay {
+  /* B1 */
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  padding-top: 20px;
+  /* or 150% */
+
+  /* Black */
+  color: #0c0b0b;
+}
+
+.statisticsText {
+  /* Your statistics */
+
+  font-family: Baloo Bhai;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 38px;
+
+  /* Black */
+  color: #0c0b0b;
+}
+
+.greetings {
+  /* Rectangle 4 */
+
+  width: 620px;
+  height: 160px;
+
+  /* Grey */
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.greetingHello {
+  /* H1 */
+  font-family: Baloo Bhai;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 57px;
+}
+
+.courseTabs {
+  /* Rectangle 7 */
+  margin: 4%;
+  width: 620px;
+  height: 60px;
+
+  /* Grey */
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.viewcoursebutton {
+  /* Rectangle 14 */
+
+  width: 120px;
+  height: 40px;
+
+  border: 2px solid #0c0b0b;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+
+.adjustHeight {
+  margin-top: 10px;
+}
+
+.viewcoursename {
+  /* Analog photography */
+
+  width: 150px;
+  height: 26px;
+
+  /* H3 */
+  font-family: Baloo Bhai;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height */
+
+  /* Black */
+  color: #0c0b0b;
+}
+
+.fill-window {
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+
+.countunue {
+  /* Rectangle 7 */
+  margin: 5%;
+  width: 620px;
+  height: 80px;
+
+  /* Grey */
+  background: #f5f5f7;
+  border-radius: 14px;
+}
+
+.continuebutton {
+  width: 100px;
+  margin-top: 20px;
+}
+
+.continueMargin {
+  margin-top: 20px;
+}

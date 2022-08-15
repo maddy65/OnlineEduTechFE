@@ -3,6 +3,7 @@ import UserCourse from './UserCourse'
 import UserExplore from './UserExplore'
 import SideBar from './SideBar'
 
+
 class CentralPanel extends Component{
     constructor(props){
         super(props)
@@ -15,6 +16,7 @@ class CentralPanel extends Component{
         return (
 
             <div class="container">
+              
                 <div class="row">
                     <div class="col">
                         <UserCourse />
